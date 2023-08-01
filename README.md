@@ -1,5 +1,5 @@
 <h1 align="center">
-    Valentine's Wish
+    Cute Wishing Site
 </h1>
 
 
